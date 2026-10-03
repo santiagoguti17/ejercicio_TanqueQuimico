@@ -1,0 +1,10 @@
+{
+  "deviceBoard": "ESP32 WROOM",
+  "communicationPort": "",
+  "runtimeIpAddress": "",
+  "vendorScreenData": {},
+  "vendorScreenDataByBoard": {
+    "ESP32 WROOM": {}
+  },
+  "selectedPlatformOptions": {}
+}
