@@ -1,0 +1,52 @@
+{
+  "ESP32 WROOM": [
+    {
+      "pin": "4",
+      "pinType": "digitalInput",
+      "address": "%IX0.0",
+      "alias": "B1_TankEmpty"
+    },
+    {
+      "pin": "16",
+      "pinType": "digitalInput",
+      "address": "%IX0.1",
+      "alias": "B2_MinLevel"
+    },
+    {
+      "pin": "17",
+      "pinType": "digitalInput",
+      "address": "%IX0.2",
+      "alias": "B3_Overflow"
+    },
+    {
+      "pin": "21",
+      "pinType": "digitalOutput",
+      "address": "%QX0.0",
+      "alias": "H1_NivelOK"
+    },
+    {
+      "pin": "19",
+      "pinType": "digitalOutput",
+      "address": "%QX0.1",
+      "alias": "H2_NivelBajo"
+    },
+    {
+      "pin": "22",
+      "pinType": "digitalOutput",
+      "address": "%QX0.2",
+      "alias": "H3_NivelAlto"
+    },
+    {
+      "pin": "18",
+      "pinType": "digitalOutput",
+      "address": "%QX0.3",
+      "alias": "H4_TanqueVacio"
+    },
+    {
+      "pin": "23",
+      "pinType": "digitalOutput",
+      "address": "%QX0.4",
+      "alias": "H5_Error"
+    }
+  ]
+}
